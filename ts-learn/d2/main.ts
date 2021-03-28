@@ -8,3 +8,6 @@
 import md1 from './md1'
 
 md1.func()
+
+import { A } from './md2'
+A.num1

@@ -7,3 +7,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // dog1.eat()
 var md1_1 = require("./md1");
 md1_1.default.func();
+var md2_1 = require("./md2");
+md2_1.A.num1;
